@@ -1,0 +1,152 @@
+Plate information 
+Plate,Repeat,Barcode,Measured height,Chamber temperature at start,Chamber temperature at end,Humidity at start,Humidity at end,Ambient temperature at start,Ambient temperature at end,Formula,Measurement date,
+1,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Calc 1: Crosstalk = Crosstalk correction where Label : US LUM 96 High(1) channel 1,12/7/2021 12:37:42 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,US LUM 96 High,0,8,0.5,00:00:00.000,De=USLum Ex=N/A Em=N/A Wdw=N/A,
+
+940,962,966,925,976,1373,1404,1408,1339,1400,0,14,
+1662,1442,1586,1531,1604,1628,1814,1708,1578,1639,0,30,
+1375,1394,1582,1390,1410,0,0,0,0,0,20,21,
+445,416,565,204,33,9,0,0,0,0,36,29,
+8,15,11,13,0,1406,1490,1576,1496,1470,0,30,
+13,21,28,29,20,0,0,4,0,0,36,21,
+46,28,29,13,21,28,28,28,12,21,29,13,
+22,30,22,14,21,61,29,13,30,21,29,31,
+
+Plate information 
+Plate,Repeat,Barcode,Measured height,Chamber temperature at start,Chamber temperature at end,Humidity at start,Humidity at end,Ambient temperature at start,Ambient temperature at end,Group,Label,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
+1,1,,15.23,23.14,22.76,20.1,20.3,22.74,22.96,1,US LUM 96 High(1),0,0,De=USLum Ex=N/A Em=N/A Wdw=N/A,0,12/7/2021 12:37:42 PM,
+
+Background information
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
+1,US LUM 96 High,0,8,0.5,00:00:00.000,De=USLum Ex=N/A Em=N/A Wdw=N/A,
+
+1024,1072,1080,1040,1104,1504,1552,1552,1480,1496,32,16,
+1784,1624,1768,1712,1784,1784,1968,1864,1728,1736,24,32,
+1488,1552,1744,1544,1512,32,32,40,24,32,24,24,
+504,496,640,272,88,56,32,40,40,40,40,32,
+24,32,32,24,40,1456,1584,1672,1592,1520,24,32,
+16,24,32,32,24,32,24,56,32,40,40,24,
+48,32,32,16,24,32,32,32,16,24,32,16,
+24,32,24,16,24,64,32,16,32,24,32,32,
+
+
+Basic assay information 
+Assay ID: ,,,,1345
+Assay Started: ,,,,12/7/2021 12:36:06 PM
+Assay Finished: ,,,,12/7/2021 12:37:59 PM
+Assay Exported: ,,,,12/7/2021 12:37:59 PM
+Protocol ID: ,,,,100150
+Protocol Name: ,,,,US LUM 96 High
+Serial#: ,,,,1030401
+
+
+
+Protocol information
+Protocol:
+Protocol name,,,,US LUM 96 High
+Number of assay repeats,,,,1
+Start assay repeat each,,,,N/A
+Number of plate repeats,,,,1
+Start plate repeat each,,,,N/A
+Is label meas. height used,,,,Yes
+Height of measurement,,,,Defined in label
+Is gripper height used,,,,No
+Mode of measurement,,,,By Columns
+Rotated plate,,,,No
+Soft move,,,,No
+Protocol notes,,,, 
+
+Plate type:
+Name of the plate type,,,,96 ViewPlate
+Number of rows,,,,8
+Number of columns,,,,12
+Number of the wells in the plate,,,,96
+Height of the plate,,,,14.61 mm
+
+Coordinates of corners:
+96 ViewPlate + US LUM 96 High
+13.89 mm x------------------------------------------------------ x 113.01 mm
+10.7 mm                                                            10.78 mm
+
+13.85 mm x------------------------------------------------------ x 112.96 mm
+73.77 mm                                                           74.01 mm
+
+Platemap:
+Plate,,,,1
+Group,,,,1
+
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,UNK1 ,UNK2 ,UNK3 ,UNK4 ,UNK5 ,UNK6 ,UNK7 ,UNK8 ,UNK9 ,UNK10,UNK11,UNK12
+B,UNK13,UNK14,UNK15,UNK16,UNK17,UNK18,UNK19,UNK20,UNK21,UNK22,UNK23,UNK24
+C,UNK25,UNK26,UNK27,UNK28,UNK29,UNK30,UNK31,UNK32,UNK33,UNK34,UNK35,UNK36
+D,UNK37,UNK38,UNK39,UNK40,UNK41,UNK42,UNK43,UNK44,UNK45,UNK46,UNK47,UNK48
+E,UNK49,UNK50,UNK51,UNK52,UNK53,UNK54,UNK55,UNK56,UNK57,UNK58,UNK59,UNK60
+F,UNK61,UNK62,UNK63,UNK64,UNK65,UNK66,UNK67,UNK68,UNK69,UNK70,UNK71,UNK72
+G,UNK73,UNK74,UNK75,UNK76,UNK77,UNK78,UNK79,UNK80,UNK81,UNK82,UNK83,UNK84
+H,UNK85,UNK86,UNK87,UNK88,UNK89,UNK90,UNK91,UNK92,UNK93,UNK94,UNK95,UNK96
+
+ UNK - Unknown
+
+Calculations:
+Plate,,,,1
+ Formula index,,,,Calc 1
+ Formula name,,,,Crosstalk
+ Formula,,,,Crosstalk where Label : US LUM 96 High(1) channel 1
+
+Auto export parameters:
+Export format,,,,Plate
+Include basic assay information,,,,Yes
+Place assay information at,,,,End of file
+Include basic plate information,,,,Yes
+Place plate information at,,,,Beginning of plate
+Include protocol information,,,,Yes
+Protocol info level,,,,Large
+Include error and warning information,,,,Yes
+Include background information,,,,Yes
+Add plate number to the file name,,,,Yes
+Each plate to separate file,,,,No
+Field separator to use,,,,System
+File name format,,,,C:\Documents and Settings\User\My Documents\Shu\ATPlite_UC202111_boil1
+
+Operations:
+Plate 1
+  Group 1
+    Measurement
+      Label,,,,US LUM 96 High(1)
+
+Labels:
+US LUM 96 High,,,,7000015
+Measurement height,,,,0.25 mm
+Measurement time,,,,0.5 s
+CT,,,,2.947
+Aperture,,,,96 Plate US Luminescence aperture
+Last edited,,,,5/5/2021 8:26:44 AM
+Last edited by,,,,EnVision
+Factory preset,,,,No
+
+Aperture:
+96 Plate US Luminescence aperture,,,,8
+Height,,,,4.2 mm
+Diameter,,,,6 mm
+Description,,,, 
+Last edited,,,,4/20/2009 9:02:35 AM
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Instrument:
+Serial number,,,,1030401
+Nickname,,,,EnVision
+
+Normalization:
+
+
+
+Notifications for plate 1  repeat 1:
+WARNING: Plate height defined in the plate editor does not match the actual plate height. Measured height is 15.23 mm. Plate editor height is 14.61 mm. The results may be affected.
+
+
+
+Exported with EnVision Workstation version X.XX Build X
