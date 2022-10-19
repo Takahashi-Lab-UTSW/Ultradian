@@ -1,7 +1,7 @@
 # Ultradian
 Raw data & Scripts.
 
-Due to space limitation, most of the raw data and all the image stacks are not included, but are available upon request.
+Due to space limitation, some raw data and all the image stacks are not included, but are available upon request.
 
 Analysis of DeltaVision image stack series -:
 Single cell:
